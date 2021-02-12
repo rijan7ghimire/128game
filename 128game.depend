@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1613121703 source:c:\users\rijan\desktop\128game\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<conio.h>
+	"movement.h"
+
+1613121358 c:\users\rijan\desktop\128game\movement.h
+
